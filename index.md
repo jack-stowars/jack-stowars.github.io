@@ -1,3 +1,17 @@
+## Professional Self-Assessment
+
+## Preliminary Code Review
+
+## Artifact One & Narrative (GAM-312 C++ Game Development C++)
+
+## Artifact Two & Narrative (IT-312 C++ Dice Game)
+
+## Artifact Three & Narrative (DAD-220 MySQL Database Final Project)
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jack-stowars/jack-stowars.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
