@@ -1,12 +1,30 @@
-## Professional Self-Assessment
+# Professional Self-Assessment
 
-## Preliminary Code Review
 
-## Artifact One & Narrative (GAM-312 C++ Game Development C++)
+# Preliminary Code Review
+### [Artifact One (GAM-312 C++ Game Development C++)](https://youtu.be/8U0qmrQv15I)
 
-## Artifact Two & Narrative (IT-312 C++ Dice Game)
+### [Artifact Two (IT-312 C++ Dice Game)](https://youtu.be/0ZkTsT7tsH4)
 
-## Artifact Three & Narrative (DAD-220 MySQL Database Final Project)
+### [Artifact Three (DAD-220 MySQL Database Final Project)](https://youtu.be/W5e7DDigQ0k)
+
+# Artifact One (GAM-312 C++ Game Development C++)
+### Code
+
+### Narrative
+
+
+# Artifact Two (IT-312 C++ Dice Game)
+### Code
+
+### Narrative
+
+
+# Artifact Three (DAD-220 MySQL Database Final Project)
+### Code
+
+### Narrative
+
 
 
 
