@@ -36,7 +36,7 @@ The first artifact that I will be using for my ePortfolio is my final project su
 			}
 		}
   ```
-  ### New Version of camera change logic (lines 34-64 of Cameradirector.cpp)
+  ### New version of camera change logic (lines 34-64 of Cameradirector.cpp)
   ```
   if (cameraChange) 
 	{
