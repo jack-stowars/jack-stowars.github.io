@@ -16,7 +16,7 @@ The reason for the inclusion of this artifact over others is that it demonstrate
 	
 I would say that the course objectives were met with this enhancement, as I ultimately improved two critical areas of my project. The first critical area is the camera director, which originally didn’t have a toggle option and just took over the camera from the game starting. 
   
-  ### Original version of camera change logic
+### Original version of camera change logic
   ```
   if (OurPlayerController)
 		{
@@ -36,7 +36,7 @@ I would say that the course objectives were met with this enhancement, as I ulti
 			}
 		}
   ```
-  ### New version of camera change logic (lines 34-64 of Cameradirector.cpp)
+### New version of camera change logic (lines 34-64 of Cameradirector.cpp)
   ```
   if (cameraChange) 
 	{
