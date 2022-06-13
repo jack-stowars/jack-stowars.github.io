@@ -113,7 +113,7 @@ int *RollDice(int chips[], int turn, int players) {
         }
 ```
 
-### New version of dice rolling logic (Lines 203-247 of 7-1 Dice Game.cpp)
+### New version of dice rolling logic (lines 203-247 of 7-1 Dice Game.cpp)
 ```
     /* Function that rolls dice for each's players turn
     *  chips[] is array of current player's chip count
