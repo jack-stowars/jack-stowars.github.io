@@ -113,8 +113,13 @@ int *RollDice(int chips[], int turn, int players) {
         }
 ```
 
-### New version of dice rolling logic
+### New version of dice rolling logic (Lines 203-247 of 7-1 Dice Game.cpp)
 ```
+    /* Function that rolls dice for each's players turn
+    *  chips[] is array of current player's chip count
+    *  turn is used to get chips from current turn's player to roll proper amount of dice
+    *  players is used to properly distribute chips for players at the beginning/end of chips[] array
+    */
     int *RollDice(int chips[], int turn, int players) {
         srand(time(0));
 
