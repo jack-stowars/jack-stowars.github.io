@@ -8,7 +8,7 @@
 
 ### [Artifact Three (DAD-220 MySQL Database Final Project)](https://youtu.be/W5e7DDigQ0k)
 
-# Artifact One (GAM-312 C++ Game Development) [Code Files](https://github.com/jack-stowars/jack-stowars.github.io/blob/175bf068362a1907709b7f42685e67b0245d9cff/ArtifactOne)
+# Artifact One (GAM-312 C++ Game Development) [Code Files](https://github.com/jack-stowars/jack-stowars.github.io/tree/main/ArtifactOne)
 
 The first artifact that I will be using for my ePortfolio is my final project submission for my GAM-312 course last term. It is a project whose purpose was to teach students to make a game using Unreal Engine. However, instead of using blueprints, which is the typical means by which games are made using Unreal Engine, the project had to be made using C++ classes, which is basically writing everything from scratch using a coding environment instead of a blueprint editor. 
 	
