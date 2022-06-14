@@ -1,5 +1,11 @@
 # Professional Self-Assessment
+The completion of my coursework throughout my computer science program, as well as the artifacts showcased in this ePortfolio, have helped to showcase several of my strengths in the industry. 
 
+- **Team Collaboration:** For the duration of my GAM-305 course (which was not one of my chosen artifacts), I had the opportunity to take a course that allowed for me to work in a team with other fellow computer science/game development majors. Throughout the duration of the course, me and 3 other classmates were to develop a video game of our own design using Unreal Engine, while also documenting and keeping track of how work was distributed and how we worked as a team. By taking this course, I was not only able to take another course that involved game development, but I was also able to get experience with working as a team with other people, as well as all of the pros and cons that can come with it. I learned many valuable team-based skills from that course, such as knowing how to compromise, assigning tasks while taking into account people's strengths and weaknesses, keeping to a schedule to meet a deadline, and to work with Git to be able to remotely work on the same project together.
+- **Stakeholder Communication:** Once again, my GAM-305 course did a great job of giving me some practice with communicating with teammates, as well as hypothetical "stakeholders" for the course's project. For the duration of the group work in that course, we had to keep weekly logs of what we planned to do, how we divided up the work, how it ended up, and what (if anything) we learned for subsequent weeks. Through this process, it basically taught me how to contribute to a report that could be given to superiors or other stakeholders in the company. This can also be said for the improvements to the in-line commenting that I did for my artifact, as it would make it easier for an outside party to be able to pick up what I've worked on and make changes, as the comments that I added explained the core functionality of each function, a swell as what each relevant section of the function and code in general did.
+- **Data Structures & Algorithms:** Artifact two in my ePortfolio was what I chose to demonstrate my skills with data structures & algorithms, as it was a course where we were tasked with choosing from a list of games and create them using C++. Since games tend to involve a lot of logic checks and data reading/writing, as well as it being one of the coding assignments I was most proud of, I saw this artifact as the perfect means to demonstrate my ability to utilize algorithms and data structures in an efficient and functioning way. The game that I created for that particular artifact was "Left Right Center", and it required quite a bit of structuring to get it to work. For example, the game needed to be able to keep track of which player's turn it was currently so that, if chips were to be passed left or right, the function that was made to pass chips would pass them to the proper player. 
+- **Software Engineering:** Artifact one in my ePortfolio was what I chose to demonstrate my skills with software engineering, as it was a course dedicated entirely to creating gameplay elements from scratch using C++ classes instead of Unreal Engine blueprints. The reason for choosing this particular artifact was solely due to the fact that it was a game development course, as I had several other artifacts from various other courses I could've selected for this demonstration. Since I am looking to get a job in the field of game development, I decided that using an artifact that involved game development would be the most ideal choice to make, as it would demonstrate both my software engineering skills and game development skills in the same artifact. 
+- **Security:** While I don't have the most experience with security-based design choices, I understand the importance of them and how they can be a major factor in the path of development for any given company. The extent of my security implementations was from a very early Java course I had taken, where we had to implement a hash table into a simulated login system in order to access data based on who had logged into the system. While it wasn't a massive undertaking, it did give me a good insight into how important security measures can be, since they can cause serious issues such as users being unable to access the software or not properly saving data where it is supposed to be saved at. Since video games (especially online video games) involve security measures to ensure that nobody is able to maliciously access your game data, security would end up being a very relevant part of any job opportunity.
 
 # Preliminary Code Review
 ### [Artifact One (GAM-312 C++ Game Development)](https://youtu.be/8U0qmrQv15I)
@@ -180,70 +186,3 @@ Since the course work was in an isolated development environment I no longer hav
 
 ### Updating MySQL table data based on specific query
 ![Task 7](https://user-images.githubusercontent.com/79537018/173445922-d871e8ff-adef-4dad-b2f7-daf8dc73702d.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jack-stowars/jack-stowars.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jack-stowars/jack-stowars.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
